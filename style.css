@@ -47,7 +47,7 @@ body {
 }
 
 .background-start {
-    background-image: url(./assets/pexels-brendon-spring-8574660.jpg);
+    background-image: url(./assets/paginainicio2\ copia.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #000000;
@@ -230,7 +230,6 @@ scroll-page {
 }
 
 .button-cover {
-    margin-top: 25px;
     align-items: center;
     display: flex;
     height: 60px;

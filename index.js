@@ -2,8 +2,11 @@
 
 ScrollReveal().reveal('.topnav');
 ScrollReveal().reveal('.web-cover');
-ScrollReveal().reveal('.secondTitle', { delay: 500 });
-ScrollReveal().reveal('.secondSubtitle', { delay: 500 });
+ScrollReveal().reveal('.secondTitle', { delay: 300 });
+ScrollReveal().reveal('.secondSubtitle', { delay: 300 });
+ScrollReveal().reveal('.new1', { delay: 600 });
+ScrollReveal().reveal('.new2', { delay: 700 });
+ScrollReveal().reveal('.new3', { delay: 800 });
 
 function responsiveMenu() {
     var x = document.getElementById("myTopnav");
