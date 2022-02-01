@@ -4,9 +4,9 @@ ScrollReveal().reveal('.topnav');
 ScrollReveal().reveal('.web-cover');
 ScrollReveal().reveal('.secondTitle', { delay: 300 });
 ScrollReveal().reveal('.secondSubtitle', { delay: 300 });
-ScrollReveal().reveal('.new1', { delay: 600 });
-ScrollReveal().reveal('.new2', { delay: 700 });
-ScrollReveal().reveal('.new3', { delay: 800 });
+ScrollReveal().reveal('.new1', { delay: 500 });
+ScrollReveal().reveal('.new2', { delay: 600 });
+ScrollReveal().reveal('.new3', { delay: 700 });
 
 function responsiveMenu() {
     var x = document.getElementById("myTopnav");
@@ -16,8 +16,6 @@ function responsiveMenu() {
         x.className = "topnav";
     }
 }
-
-
 
 $(function() {
     var shrinkHeader = 200;
